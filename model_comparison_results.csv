@@ -1,0 +1,5 @@
+Model,Best Params,Accuracy,Recall per class
+Logistic Regression,{'C': 0.1},95.83,[ 97.22  88.89 100.   100.   100.   100.    97.22  97.22  85.71  91.67]
+Decision Tree,{'max_depth': 20},83.06,[94.44 72.22 82.86 81.08 86.11 91.89 86.11 97.22 68.57 69.44]
+K-Nearest Neighbors,{'n_neighbors': 3},98.61,[100.   100.   100.   100.   100.   100.   100.   100.    91.43  94.44]
+Neural Network,"{'alpha': 0.01, 'hidden_layer_sizes': (100, 50)}",96.67,[100.    91.67 100.    97.3  100.   100.    97.22 100.    88.57  91.67]
